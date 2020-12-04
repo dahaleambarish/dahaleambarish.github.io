@@ -1,7 +1,7 @@
 # For all available keys and their usages please refer to https://acrlakshman.github.io/profileio/docs/
 # Comments for the configurations below will be updated soon.
 config:
-  homepage: "https://profileio.lakshmananumolu.com"
+  homepage: "https://dahaleambarish.github.io"
   theme:
     value: basic
     render: true
@@ -22,7 +22,7 @@ config:
     resume: resume.pdf # path (relative to _profile/files/) for user submitted resume
 basics:
   name:
-    value: Lakshmi Vera
+    value: Ambarish Dahale
     render: true
   label:
     value: Senior Software Engineer
@@ -31,13 +31,13 @@ basics:
     value: pic.png
     render: true
   email:
-    value: anumolu@uwalumni.com
+    value: dahaleambarish@gmail.com
     render: true
   phone:
     value: ''
     render: false
   url:
-    value: 'https://profileio.lakshmananumolu.com'
+    value: 'https://dahaleambarish.github.io'
     render: false
   summary:
     label: About me
